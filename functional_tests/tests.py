@@ -113,12 +113,6 @@ class NewVisitorTest(LiveServerTestCase):
 		
 		# Satisfied, they both go back to sleep
 
-
-
-
-
-
-		self.fail('Finish the test!')
 		
 		# The page updates again, and now shows both items on her list
 
